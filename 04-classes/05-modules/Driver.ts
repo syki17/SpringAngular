@@ -4,4 +4,4 @@ import {Customer} from "./Customer";
 let myCustomer = new Customer("Jakub","Sykora");
 
 console.log(myCustomer.firstName);
-console.log(myCustomer.lastName); 
+console.log(myCustomer.lastName);  
